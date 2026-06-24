@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Misterio de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-seda/) |
+| **Get License** | [Get a Licensing Quote for Misterio de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> En la ciudad de luces donde somos testigos
+> Tu mirada me quema, me quita el abrigo
+> Yo quiero ser el dueño de tu amor prohibido
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
